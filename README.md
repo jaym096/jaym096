@@ -13,7 +13,7 @@
 <br>
 <br>
 
-### About me
+# About me
 
 🎓 I’m a graduate student at Indiana University pursuing master's degree in Data Science. Having a bachelor's degree in Computer Engineering, I am also a software engineer experienced in Web and Android Application Development.
 
