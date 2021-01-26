@@ -13,8 +13,6 @@
 <br>
 <br>
 
-# About me
-
 🎓 I’m a graduate student at Indiana University pursuing master's degree in Data Science. Having a bachelor's degree in Computer Engineering, I am also a software engineer experienced in Web and Android Application Development.
 
 🔭 I’m currently working as a graduate student researcher under Prof. Sagar Samtani at Kelley School of Business. Our research focuses on applications of Deep Learning in Cyber Threat Intelligence.
