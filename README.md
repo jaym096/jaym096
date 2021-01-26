@@ -10,6 +10,9 @@
   <img align="left" alt="Biraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
+<br>
+<br>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jaym096&theme=vue-dark&show_icons=true&count_private=true)
 
 <!--
