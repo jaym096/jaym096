@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<a href="https://jaym096.github.io" target="_">
+<a href="https://jaym096.github.io" target="_blank">
   <img align="left" alt="Biraj's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
-<a href="https://www.linkedin.com/in/jay-madhu/" target="_">
+<a href="https://www.linkedin.com/in/jay-madhu/" target="_blank">
   <img align="left" alt="Biraj's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.hackerrank.com/jay_madhu101" target="_">
+<a href="https://www.hackerrank.com/jay_madhu101" target="_blank">
   <img align="left" alt="Biraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
