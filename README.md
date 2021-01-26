@@ -13,6 +13,14 @@
 <br>
 <br>
 
+### About me
+
+🎓 I’m a graduate student at Indiana University pursuing master's degree in Data Science. Having a bachelor's degree in Computer Engineering, I am also a software engineer experienced in Web and Android Application Development.
+
+
+<br>
+<br>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jaym096&theme=vue-dark&show_icons=true&count_private=true)
 
 <!--
