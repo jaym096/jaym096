@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Jay
 
 <a href="https://jaym096.github.io" target="_blank">
   <img align="left" alt="Biraj's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -9,6 +9,8 @@
 <a href="https://www.hackerrank.com/jay_madhu101" target="_blank">
   <img align="left" alt="Biraj's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jaym096&theme=vue-dark&show_icons=true&count_private=true)
 
 <!--
 **jaym096/jaym096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
